@@ -74,6 +74,8 @@ graph-analytics-final-project/
 ├── .gitignore
 ├── README.md
 └── requirements.txt
+```
+
 
 ## How to Run (Suggested Order)
 1) Create and activate a virtual environment (Windows PowerShell)
